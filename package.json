@@ -1,0 +1,24 @@
+{
+  "name": "EmployeeFinder",
+  "version": "1.0.0",
+  "description": "&lt;li href=\" https://esthervictory.github.io/Basic-Porfolio/\">Basic-Porfolio&lt;/li>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESTHERVICTORY/EmployeeFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ESTHERVICTORY/EmployeeFinder/issues"
+  },
+  "homepage": "https://github.com/ESTHERVICTORY/EmployeeFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
